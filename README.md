@@ -9,3 +9,9 @@ Just clone this project and run index.html file.
 
 ### Contribution
 You can contribute by adding more pages and functionality in it. Thanks
+
+## DEMO
+ Click for demo : [Technology Web Page](https://rakeshec005.github.io/Technology/)
+---
+
+Thanks for visiting 😊
